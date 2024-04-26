@@ -1,1 +1,1 @@
-/capsule caffe/macchina caffe/caffe/cialde caffe/caffe espresso/caffe per moka/moka/caffettiera/bicchierini caffe/decalcificante caffe/macinacaffe/caffe macinato/decaffeinato/tazzine caffe/caffe in grani/caffe borbone/caffe illy/
+/capsule caffe/macchina caffe/caffe/cialde caffe/caffe espresso/caffe per moka/moka/caffettiera/bicchierini caffe/decalcificante caffe/macinacaffe/caffe macinato/decaffeinato/tazzine caffe/caffe in grani/caffe borbone/caffe illy/zucchero/
